@@ -54,7 +54,7 @@ define('DB_PASS', 'sua_senha');
 - Usuários realizam reservas simples sem login, escolhendo sala, data, horário e equipamentos.  
 - Administradores aprovam, rejeitam, editam e cancelam reservas via dashboard.  
 - Estatísticas e gráficos ajudam no acompanhamento do uso das salas.  
-- Exportação de relatórios em PDF e Excel facilita a análise e arquivamento.
+- Exportação de relatórios em PDF facilita a análise e arquivamento.
 
 ## Contribuição
 
